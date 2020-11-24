@@ -18,7 +18,7 @@ class basket{
             var pos = this.body.position;
 
             imageMode(CENTER);
-            image(this.image, 900, 450, 220, 100);
+            image(this.image, 900, 435, 220, 100);
         }
     
 }
